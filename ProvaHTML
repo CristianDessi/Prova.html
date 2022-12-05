@@ -8,8 +8,14 @@
     <style>
      h1 {
         display: inline-block;
-        color:blueviolet ;
-     }   
+        color: #00f; ;
+    font-size: 30px; 
+    } 
+    h2 {
+        display: inline-block;
+        color: #f00; ;
+    font-size: 30px; 
+    } 
     </style>
     <h1>
 Dessi
