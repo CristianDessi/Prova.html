@@ -16,6 +16,11 @@
         color: #f00; ;
     font-size: 30px; 
     } 
+    .quadrato {
+        width: 400px;
+        height: 400px;
+    background-color: #0f0;
+    }
     </style>
     <h1>
 Dessi
