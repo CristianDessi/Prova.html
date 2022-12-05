@@ -1,0 +1,47 @@
+yy<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+     h1 {
+        display: inline-block;
+        color: #00f; ;
+    font-size: 30px; 
+    } 
+    h2 {
+        display: inline-block;
+        color: #f00; ;
+    font-size: 30px; 
+    } 
+    .quadrato {
+        width: 400px;
+        height: 400px;
+    background-color: #0f0;
+    }
+    .rettangolo {
+        width: 400px;
+        height: 200px;
+    background-color: #ff0;
+    }
+    .Cerchio {
+width: 400px;
+height: 300px;
+background: #0000ff;
+border-radius: 50%;
+    }
+    </style>
+    <h1>
+Dessi
+    </h1>
+    <h2>
+        Cristian
+    </h2>
+</head>
+<body>
+    <div class="quadrato"></div>
+    <div class="rettangolo"></div>
+    <div class="quadrato"></div>   
+</body>
+</html>
